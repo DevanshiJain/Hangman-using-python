@@ -104,7 +104,7 @@ if __name__ == "__main__":
 
     wrong_guess = -1
     while wrong_guess<7:
-        print("Take a guess number : ")
+        print("Take a guess : ")
         print("Enter a character")
         flag = 0
         found = 0
